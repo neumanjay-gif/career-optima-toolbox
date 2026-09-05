@@ -25,8 +25,9 @@ Browse any job board and instantly evaluate whether a posting is worth your time
 ### Download from GitHub
 You can install the extension directly from this repository:
 
-1. Download the latest release from the [Releases](../../releases) page
-2. Follow the instructions for your browser:
+1. Download the latest Chrome/Edge/Firefox release from https://github.com/neumanjay-gif/career-optima-toolbox/releases/download/v1.11.4/career-optima-toolbox-extension.zip
+2. Download the latest Safari release from https://github.com/neumanjay-gif/career-optima-toolbox/releases/download/v1.11.4/career-optima-toolbox-extension-safari.zip
+3. Follow the instructions for your browser:
    - **Chrome:** Go to `chrome://extensions`, enable Developer Mode, click **Load unpacked**, and select the downloaded folder
    - **Edge:** Go to `edge://extensions`, enable Developer Mode, click **Load unpacked**, and select the downloaded folder
    - **Firefox:** Go to `about:debugging`, click **This Firefox**, then **Load Temporary Add-on**, and select the downloaded `.zip` file
@@ -56,7 +57,7 @@ When filing an issue, it helps to include:
 
 ## Privacy
 
-Career Optima Toolbox runs entirely on your local computer. Your resume, API keys, and application data are stored on your device only and are never transmitted to or accessible by Career Optima. See the full [Privacy Policy](../../blob/main/PRIVACY_POLICY.md) for details.
+Career Optima Toolbox runs entirely on your local computer. Your resume, API keys, and application data are stored on your device only and are never transmitted to or accessible by Career Optima. See the full [[Privacy Policy] (https://github.com/neumanjay-gif/career-optima-toolbox/blob/main/PRIVACY_POLICY.html) for details.
 
 ---
 
